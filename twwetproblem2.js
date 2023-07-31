@@ -1,0 +1,1 @@
+alert(prompt("give a tweet").slice(0,80));
